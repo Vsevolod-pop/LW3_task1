@@ -70,7 +70,9 @@ int main()
         }
     }
     
-    
+    int countC = 0;
+    int summ = 0;
+
 
     for (int i = 0; i < size; i++)
     {
